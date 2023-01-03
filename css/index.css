@@ -103,7 +103,7 @@ h3 {
   background: rgb(255, 100, 126);
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   main {
     flex-direction: column;
     justify-content: center;
